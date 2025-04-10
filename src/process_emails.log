@@ -1,0 +1,96 @@
+[2025-04-10 22:40:04,314] INFO - Successfully established connection to DB
+[2025-04-10 22:40:04,493] ERROR - Failed while running rules. Error : local variable 'flow' referenced before assignment
+[2025-04-10 22:40:14,244] INFO - Successfully established connection to DB
+[2025-04-10 22:40:21,551] INFO - GmailClient is ready to use
+[2025-04-10 22:40:26,353] ERROR - Labels API is success
+[2025-04-10 22:40:27,057] INFO - API is success
+[2025-04-10 22:40:27,057] INFO - Successfully moved message to {label}!
+[2025-04-10 22:40:27,859] INFO - API is success
+[2025-04-10 22:40:27,859] INFO - Message marked as read successfully!
+[2025-04-10 22:40:28,604] INFO - API is success
+[2025-04-10 22:40:28,605] INFO - Successfully moved message to {label}!
+[2025-04-10 22:40:29,222] INFO - API is success
+[2025-04-10 22:40:29,222] INFO - Message marked as read successfully!
+[2025-04-10 22:40:29,854] INFO - API is success
+[2025-04-10 22:40:29,854] INFO - Successfully moved message to {label}!
+[2025-04-10 22:40:30,576] INFO - API is success
+[2025-04-10 22:40:30,576] INFO - Message marked as read successfully!
+[2025-04-10 22:40:31,162] INFO - API is success
+[2025-04-10 22:40:31,162] INFO - Successfully moved message to {label}!
+[2025-04-10 22:40:31,737] INFO - API is success
+[2025-04-10 22:40:31,737] INFO - Message marked as read successfully!
+[2025-04-10 22:42:35,116] INFO - Successfully established connection to DB
+[2025-04-10 22:42:35,118] INFO - GmailClient is ready to use
+[2025-04-10 22:42:36,961] ERROR - Labels API is success
+[2025-04-10 22:42:37,575] INFO -  modify_message_labels API is success. message_id={message_id}
+[2025-04-10 22:42:37,575] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195edb6c7dd64aab
+[2025-04-10 22:42:38,293] INFO -  modify_message_labels API is success. message_id={message_id}
+[2025-04-10 22:42:38,293] INFO - Message marked as read successfully!. message_id={message_id}
+[2025-04-10 22:42:38,906] INFO -  modify_message_labels API is success. message_id={message_id}
+[2025-04-10 22:42:38,907] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195c8c79708ec9d1
+[2025-04-10 22:42:39,521] INFO -  modify_message_labels API is success. message_id={message_id}
+[2025-04-10 22:42:39,521] INFO - Message marked as read successfully!. message_id={message_id}
+[2025-04-10 22:42:40,136] INFO -  modify_message_labels API is success. message_id={message_id}
+[2025-04-10 22:42:40,137] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195b9b5b34366b40
+[2025-04-10 22:43:11,591] INFO - Successfully established connection to DB
+[2025-04-10 22:43:11,593] INFO - GmailClient is ready to use
+[2025-04-10 22:43:12,043] ERROR - Labels API is success
+[2025-04-10 22:43:12,692] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:12,692] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:13,305] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:13,306] INFO - Message marked as read successfully!. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:13,929] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:13,930] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:14,497] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:14,497] INFO - Message marked as read successfully!. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:15,162] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:43:15,162] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195b9b5b34366b40
+[2025-04-10 22:43:15,772] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:43:15,773] INFO - Message marked as read successfully!. message_id=195b9b5b34366b40
+[2025-04-10 22:43:16,328] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:43:16,329] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195ae998d6a346a4
+[2025-04-10 22:43:17,105] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:43:17,106] INFO - Message marked as read successfully!. message_id=195ae998d6a346a4
+[2025-04-10 22:43:47,837] INFO - Successfully established connection to DB
+[2025-04-10 22:43:47,838] INFO - GmailClient is ready to use
+[2025-04-10 22:43:48,344] INFO - Labels API is success
+[2025-04-10 22:43:48,927] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:48,927] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:49,875] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:49,875] INFO - Message marked as read successfully!. message_id=195edb6c7dd64aab
+[2025-04-10 22:43:50,489] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:50,489] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:51,115] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:51,116] INFO - Message marked as read successfully!. message_id=195c8c79708ec9d1
+[2025-04-10 22:43:51,708] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:43:51,708] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195b9b5b34366b40
+[2025-04-10 22:43:52,333] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:43:52,334] INFO - Message marked as read successfully!. message_id=195b9b5b34366b40
+[2025-04-10 22:43:52,921] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:43:52,921] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195ae998d6a346a4
+[2025-04-10 22:43:53,507] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:43:53,507] INFO - Message marked as read successfully!. message_id=195ae998d6a346a4
+[2025-04-10 22:46:14,981] INFO - Successfully established connection to DB
+[2025-04-10 22:46:14,983] INFO - GmailClient is ready to use
+[2025-04-10 22:46:14,983] INFO - Emails matched for the condition : 4
+[2025-04-10 22:46:15,587] INFO - Labels API is success
+[2025-04-10 22:46:16,103] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:46:16,103] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195edb6c7dd64aab
+[2025-04-10 22:46:16,646] INFO - modify_message_labels API is success. message_id=195edb6c7dd64aab
+[2025-04-10 22:46:16,646] INFO - Message marked as read successfully!. message_id=195edb6c7dd64aab
+[2025-04-10 22:46:16,647] INFO - Processing completed for 1/4
+[2025-04-10 22:46:17,146] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:46:17,147] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195c8c79708ec9d1
+[2025-04-10 22:46:17,655] INFO - modify_message_labels API is success. message_id=195c8c79708ec9d1
+[2025-04-10 22:46:17,655] INFO - Message marked as read successfully!. message_id=195c8c79708ec9d1
+[2025-04-10 22:46:17,655] INFO - Processing completed for 2/4
+[2025-04-10 22:46:18,250] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:46:18,250] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195b9b5b34366b40
+[2025-04-10 22:46:18,865] INFO - modify_message_labels API is success. message_id=195b9b5b34366b40
+[2025-04-10 22:46:18,865] INFO - Message marked as read successfully!. message_id=195b9b5b34366b40
+[2025-04-10 22:46:18,866] INFO - Processing completed for 3/4
+[2025-04-10 22:46:19,479] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:46:19,479] INFO - Successfully moved message to Label_8137493206848981386!. message_id=195ae998d6a346a4
+[2025-04-10 22:46:20,029] INFO - modify_message_labels API is success. message_id=195ae998d6a346a4
+[2025-04-10 22:46:20,030] INFO - Message marked as read successfully!. message_id=195ae998d6a346a4
+[2025-04-10 22:46:20,030] INFO - Processing completed for 4/4

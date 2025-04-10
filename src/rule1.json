@@ -1,0 +1,30 @@
+{
+    "conditions_to_check": "All",
+    "conditions": [
+      {
+        "field": "From",
+        "type": "Contains",
+        "value": "redbus.in"
+      },
+      {
+        "field": "Subject",
+        "type": "Contains",
+        "value": "wallet"
+      },
+      {
+        "field": "Received Date/Time",
+        "type": "Less than",
+        "value": "5",
+	"unit": "days"
+      }
+    ],
+    "actions": [
+      {
+        "action": "move message",
+        "to mailbox": "BUS BOOKINGS"
+      },
+      {
+        "action": "mark as read"
+      }
+    ]
+}
