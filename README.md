@@ -1,5 +1,4 @@
 # gmail-rule-processor
-Python script that integrates with Gmail API and performs some rule based operations on emails.
 
 Python utility to extract emails from Gmail using the Gmail API and process them based on user-defined rules.
 
